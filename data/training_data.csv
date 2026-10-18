@@ -1,0 +1,16 @@
+Temperature,Vibration,Pressure,RPM,Status
+60,2.5,5.8,1200,Healthy
+65,3.0,6.0,1250,Healthy
+70,4.2,6.5,1300,Healthy
+75,5.0,6.8,1350,Warning
+80,6.0,7.0,1400,Warning
+85,7.0,7.2,1450,Warning
+90,8.0,7.5,1500,Critical
+95,8.5,7.8,1550,Critical
+100,9.0,8.0,1600,Critical
+55,2.0,5.5,1100,Healthy
+68,3.8,6.2,1280,Healthy
+77,5.8,6.9,1380,Warning
+88,7.5,7.4,1480,Critical
+92,8.3,7.6,1520,Critical
+73,4.8,6.6,1320,Warning
